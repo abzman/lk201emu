@@ -2,3 +2,4 @@
 *.csv
 *.bck
 fp-info-cache
+test/test_core
